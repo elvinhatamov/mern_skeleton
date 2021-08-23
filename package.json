@@ -1,0 +1,22 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "Mern Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvinhatamov/mern_skeleton.git"
+  },
+  "author": "Elvin Hatamov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvinhatamov/mern_skeleton/issues"
+  },
+  "homepage": "https://github.com/elvinhatamov/mern_skeleton#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
